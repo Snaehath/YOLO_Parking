@@ -1,7 +1,6 @@
 flask 
 ultralytics
 opencv-python
-os
 paddleocr 
 numpy
 Gunicorn
