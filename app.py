@@ -111,4 +111,4 @@ def detect():
     return jsonify({"VechicleType" :vehicle_label, "VehicleNo":text_output})
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(debug=False,port=5000)
