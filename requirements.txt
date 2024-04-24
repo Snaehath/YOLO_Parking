@@ -1,7 +1,8 @@
-flask 
+fastapi
 ultralytics
 opencv-python
 paddlepaddle
 paddleocr 
 numpy
 Gunicorn
+uvicorn 
